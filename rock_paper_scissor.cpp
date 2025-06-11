@@ -50,4 +50,5 @@ int main(){
     else{
         cout << "\nSorry! Computer has won the game." << endl;
     }
+    return 0;
 }
